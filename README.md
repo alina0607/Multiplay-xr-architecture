@@ -2,7 +2,7 @@
 
 An interactive class diagram documenting the architecture of a multiplayer XR project built with **Unity**, **Photon Fusion**, and **XR Interaction Toolkit**.
 
-🔗 **[View Interactive Diagram →](https://github.com/alina0607/Multiplay-xr-architecture/blob/main/xr_architecture_alina_chuang.html)**
+🔗 **[View Interactive Diagram →](https://alina0607.github.io/Multiplay-xr-architecture/xr_architecture_alina_chuang.html)**
 
 ---
 
